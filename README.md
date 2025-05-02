@@ -29,16 +29,16 @@ ________________________________________
 
 
 ________________________________________
-💰 Finance KPIs
+Finance KPIs
 •	Gross Profit = Sales Revenue − Cost of Goods Sold
 •	Gross Profit Margin
 •	Discount Impact (Total discounts given and their effect on revenue)
 ________________________________________
-📄 Power BI Report Pages & Visual Layouts
+Power BI Report Pages & Visual Layouts
 ________________________________________
-📄 Page 1: Executive Sales Overview
-🎯 Audience: C-Level Executives / Directors
-📌 Purpose: Provide high-level performance metrics across years
+Page 1: Executive Sales Overview
+Audience: C-Level Executives / Directors
+Purpose: Provide high-level performance metrics across years
 Visuals:
 •	KPI Cards: Total Sales, YoY Growth, Number of Orders, Profit Margin
 •	Line Chart: Sales Trend by Month
@@ -46,9 +46,9 @@ Visuals:
 •	Donut Chart: Sales by Product Category
 •	Slicer: Year Selector (2014, 2015, 2016)
 ________________________________________
-📄 Page 2: Product & Customer Analysis
-🎯 Audience: Product Managers, Marketing Teams
-📌 Purpose: Deep dive into product performance and customer behaviors
+Page 2: Product & Customer Analysis
+Audience: Product Managers, Marketing Teams
+Purpose: Deep dive into product performance and customer behaviors
 Visuals:
 •	Table: Top 10 Products by Sales & Units Sold
 •	Bar Chart: Sales by Product Subcategory
@@ -56,9 +56,9 @@ Visuals:
 •	KPI Cards: Average Order Value, CLV, New Customers
 •	Slicer: Product Category
 ________________________________________
-📄 Page 3: Sales Team Performance
-🎯 Audience: Sales Managers
-📌 Purpose: Evaluate individual and team performance in sales
+Page 3: Sales Team Performance
+Audience: Sales Managers
+Purpose: Evaluate individual and team performance in sales
 Visuals:
 •	KPI Cards: Total Sales by Salesperson, Orders per Rep
 •	Matrix: Sales by Salesperson and Region
@@ -66,9 +66,9 @@ Visuals:
 •	Funnel Chart: Lead-to-Sale Conversion (if data supports it)
 •	Slicer: Region / Sales Territory
 ________________________________________
-🔍 Additional View for Strategic Insights
-📄 Page 4: Geographic Analysis
-🎯 Purpose: Visualize performance by geography to uncover regional trends
+Additional View for Strategic Insights
+Page 4: Geographic Analysis
+Purpose: Visualize performance by geography to uncover regional trends
 Visuals:
 •	Map: Sales by Country / City / Region (Bubble Map or Choropleth)
 •	Bar Chart: Top 5 Countries by Revenue
@@ -76,12 +76,12 @@ Visuals:
 •	Slicer: Country → State → City
 •	Heat Map: Product Popularity by Region
 ________________________________________
-💡 Enhancement Tips
+Enhancement Tips
 •	Drill-through Pages: Create detail pages for products, customers, or salespeople.
 •	Bookmarks: Use for toggling between views (e.g., YoY vs MoM trends).
 •	Tooltips: Add interactive KPIs when hovering over visuals.
 •	Field Parameters (Power BI): Use to dynamically switch between metrics or dimensions.
 ________________________________________
-📌 Note:
+Note:
 In addition to the listed KPIs, closely review the dataset to identify hidden patterns or emerging trends relevant to executives or sales leadership (e.g., seasonal product peaks, regional anomalies, or new market segments).
 ________________________________________
