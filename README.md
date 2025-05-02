@@ -1,8 +1,8 @@
 ________________________________________
-📊 Adventure Works Power BI Report Overview (2014–2016)
+Adventure Works Power BI Report Overview (2014–2016)
 ________________________________________
-✅ Key KPIs (Grouped by Business Area)
-📈 Sales KPIs
+ Key KPIs (Grouped by Business Area)
+ Sales KPIs
 •	Total Sales Revenue (per year, quarter, month)
 •	Year-over-Year (YoY) Sales Growth
 •	Average Order Value (AOV)
@@ -13,14 +13,14 @@ ________________________________________
 •	Sales per Salesperson
 •	Sales by Channel (e.g., Online vs Reseller, if available)
 ________________________________________
-👤 Customer KPIs
+Customer KPIs
 •	Number of Unique Customers
 •	Customer Retention Rate
 •	Customer Lifetime Value (CLV) (if historical purchase patterns available)
 •	New vs Returning Customers
 •	Average Orders per Customer
 ________________________________________
-📦 Product KPIs
+ Product KPIs
 •	Units Sold
 •	Inventory Turnover (if inventory data is available)
 •	Profit Margin by Product / Category
