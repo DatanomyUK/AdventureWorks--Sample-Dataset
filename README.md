@@ -75,8 +75,8 @@ Visuals:
 •	Table: Revenue, Orders, and Customers by Region
 •	Slicer: Country → State → City
 •	Heat Map: Product Popularity by Region
-________________________________________
-Enhancement Tips
+
+## Enhancement Tips
 •	Drill-through Pages: Create detail pages for products, customers, or salespeople.
 •	Bookmarks: Use for toggling between views (e.g., YoY vs MoM trends).
 •	Tooltips: Add interactive KPIs when hovering over visuals.
