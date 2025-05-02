@@ -1,8 +1,8 @@
-________________________________________
-Adventure Works Power BI Report Overview (2014–2016)
-________________________________________
- Key KPIs (Grouped by Business Area)
- Sales KPIs
+
+# Adventure Works Power BI Report Overview (2014–2016)
+
+ # Key KPIs (Grouped by Business Area)
+ ## Sales KPIs
 •	Total Sales Revenue (per year, quarter, month)
 •	Year-over-Year (YoY) Sales Growth
 •	Average Order Value (AOV)
@@ -12,31 +12,29 @@ ________________________________________
 •	Top 10 Selling Products
 •	Sales per Salesperson
 •	Sales by Channel (e.g., Online vs Reseller, if available)
-________________________________________
-Customer KPIs
+
+## Customer KPIs
 •	Number of Unique Customers
 •	Customer Retention Rate
 •	Customer Lifetime Value (CLV) (if historical purchase patterns available)
 •	New vs Returning Customers
 •	Average Orders per Customer
-________________________________________
- Product KPIs
+
+ ## Product KPIs
 •	Units Sold
 •	Inventory Turnover (if inventory data is available)
 •	Profit Margin by Product / Category
 •	Product Return Rate (if returns data is available)
 
-
-
-________________________________________
-Finance KPIs
+## Finance KPIs
 •	Gross Profit = Sales Revenue − Cost of Goods Sold
 •	Gross Profit Margin
 •	Discount Impact (Total discounts given and their effect on revenue)
-________________________________________
-Power BI Report Pages & Visual Layouts
-________________________________________
-Page 1: Executive Sales Overview
+
+
+# Power BI Report Pages & Visual Layouts
+
+## Page 1: Executive Sales Overview
 Audience: C-Level Executives / Directors
 Purpose: Provide high-level performance metrics across years
 Visuals:
@@ -45,8 +43,8 @@ Visuals:
 •	Bar Chart: Sales by Region / Country
 •	Donut Chart: Sales by Product Category
 •	Slicer: Year Selector (2014, 2015, 2016)
-________________________________________
-Page 2: Product & Customer Analysis
+
+## Page 2: Product & Customer Analysis
 Audience: Product Managers, Marketing Teams
 Purpose: Deep dive into product performance and customer behaviors
 Visuals:
@@ -55,8 +53,8 @@ Visuals:
 •	Clustered Bar: Customer Segment vs Revenue
 •	KPI Cards: Average Order Value, CLV, New Customers
 •	Slicer: Product Category
-________________________________________
-Page 3: Sales Team Performance
+
+## Page 3: Sales Team Performance
 Audience: Sales Managers
 Purpose: Evaluate individual and team performance in sales
 Visuals:
@@ -65,9 +63,9 @@ Visuals:
 •	Line Chart: Monthly Sales by Salesperson
 •	Funnel Chart: Lead-to-Sale Conversion (if data supports it)
 •	Slicer: Region / Sales Territory
-________________________________________
+
 Additional View for Strategic Insights
-Page 4: Geographic Analysis
+## Page 4: Geographic Analysis
 Purpose: Visualize performance by geography to uncover regional trends
 Visuals:
 •	Map: Sales by Country / City / Region (Bubble Map or Choropleth)
@@ -81,7 +79,6 @@ Visuals:
 •	Bookmarks: Use for toggling between views (e.g., YoY vs MoM trends).
 •	Tooltips: Add interactive KPIs when hovering over visuals.
 •	Field Parameters (Power BI): Use to dynamically switch between metrics or dimensions.
-________________________________________
-Note:
+
+## Note:
 In addition to the listed KPIs, closely review the dataset to identify hidden patterns or emerging trends relevant to executives or sales leadership (e.g., seasonal product peaks, regional anomalies, or new market segments).
-________________________________________
